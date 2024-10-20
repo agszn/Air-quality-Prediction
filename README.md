@@ -3,47 +3,47 @@
 This file contains descriptions of the images in the `assets` folder.
 
 ### About
-![About](assets\about.png)
+![About](assets\images\about.png)
 
 ### Airqualitypridiction
-![Airqualitypridiction](assets\AirQualityPridiction.png)
+![Airqualitypridiction](images\AirQualityPridiction.png)
 
 ### Aqi
-![Aqi](assets\AQI.png)
+![Aqi](images\AQI.png)
 
 ### Contact
-![Contact](assets\contact.png)
+![Contact](images\contact.png)
 
 ### Delete
-![Delete](assets\delete.png)
+![Delete](images\delete.png)
 
 ### Graph1
-![Graph1](assets\graph1.png)
+![Graph1](images\graph1.png)
 
 ### Home
-![Home](assets\home.png)
+![Home](images\home.png)
 
 ### Indiandistricts
-![Indiandistricts](assets\IndianDistricts.png)
+![Indiandistricts](images\IndianDistricts.png)
 
 ### Login
-![Login](assets\login.png)
+![Login](images\login.png)
 
 ### Maps
-![Maps](assets\maps.png)
+![Maps](images\maps.png)
 
 ### Pollutants
-![Pollutants](assets\pollutants.png)
+![Pollutants](images\pollutants.png)
 
 ### Profile
-![Profile](assets\profile.png)
+![Profile](images\profile.png)
 
 ### Register
-![Register](assets\register.png)
+![Register](images\register.png)
 
 ### Stateanalytics
-![Stateanalytics](assets\StateAnalytics.png)
+![Stateanalytics](images\StateAnalytics.png)
 
 ### Yearbasedaqi
-![Yearbasedaqi](assets\yearBasedAQI.png)
+![Yearbasedaqi](images\yearBasedAQI.png)
 
